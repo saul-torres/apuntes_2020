@@ -1,0 +1,72 @@
+# Mercados
+
+Un mercado es toda institución social en la que los bienes y servicios, así como los factores productivos, se intercambian. Permite una definición dual: desde un punto de vista puramente físico haciéndose referencia al lugar donde se producen los intercambios; desde un punto de vista más formal o institucional, hace referencia a la conjunción de compradores y vendedores.
+
+Un mercado está compuesto por dos elementos fundamentales: por un lado la oferta, definida por la actitud de los productores; y por otro lado la demanda, determinada por el comportamiento de los consumidores.
+
+Las principales caracteristicas que definen la estructura de un mercado son las siguientes:
+
+1. Numero de agentes.
+2. Grado de competencia entre los vendedores.
+3. Tipo de producto. Homogeneo o heterogeneo.
+4. La existencia o no de barreras de entrada. Las cuales son el impedimento que hace que alguien no pueda entrar en un mercado. Dentro de estas distinguimos ciertos tipos:
+    + Proceso productivo.
+    + Recursos monopolisticos.
+    + Patentes legales.
+5. Control sobre el precio.
+6. La transparencia. Control sobre la información.
+
+En función de qué situaciones se den para cada una de las características anteriores, se distinguirá una tipología u otra de mercado. En general, se distinguen las siguientes tipologías básicas de mercados: competencia perfecta, monopolio, oligopolio y competencia monopolística.
+
+## Competencia perfecta
+Los mercados de competencia perfecta se caracterizan porque presentan las siguientes características:
+
+1. Existencia de un número elevado de compradores y vendedores.
+2. Existe una alta competencia entre los vendedores.
+3. Los bienes ofrecidos por los distintos vendedores son prácticamente idénticos.
+4. Las empresas pueden entrar o salir libremente del mercado.
+5. Las empresas individualmente no tienen capacidad para fijar el precio del producto.
+6. Existe información perfecta.
+
+## Monopolio
+
+Del griego antiguo mόνος (*mono*, "uno"), y de πόλλειν, (*polein*, "vender").
+El caso extremo de un mercado imperfectamente competitivo es el monopolio, ya que sólo hay un único ofertante en la industria. Una empresa es un monopolio si es la única que oferta un producto y si éste no tiene sustitutivos cercanos.
+
+1. Sólo existe un único vendedor.
+2. No existe compentencia alguna al existir un único vendedor.
+3. Se comercializa un único producto sin sustitutivos cercanos.
+4. Generalmente aparecen importantes barreras de entrada al mercado.
+5. El único vendedor tiene un gran poder a la hora de fijar el precio.
+6. No existe una gran información sobre los costes del vendedor.
+
+Su objetivo principal es maximizar el beneficio. Encontramos que el precio del producto es mayor que el ingreso marginal
+Ejemplos de monopolio son: el agua y las empresas de ferrocaril y autobuses.
+Para este tipo de mercados hay diferentes soluciones como: aumentar la competencia y prohibir los monopolios.
+
+### Barreras de entrada
+
+Las barreras a la entrada son factores que limitan la entrada de nuevas empresas en una industria, de forma que, cuando son altas, la industria tendrá pocas empresas y escasas presiones para competir.
+
+1. Las restricciones legales (patentes, las restricciones o concesiones administrativas, existencia de tarifas y cuotas al comercio internacional).
+2. La publicidad y la diferenciación del producto.
+3. Costes de entrada elevados.
+
+## Oligopolio
+
+Del griego antiguo ὀλιγς (*oligos*, "poco", "pocos"), y de πόλλειν, (*polein*, "vender"). 
+
+Este tipo de mercados esta caracterizado por tener pocos vendedores y muchos compradores, en el cual encontramos una gran competencia entre los vendedores e incluso encontramos pactos. Aqui las decisiones de un sujeto afectan a los demas, lo cual se llama: Interdependencia estrategica.
+En estos mercados los vendedores deben elegir entre conseguir el maximo beneficio o cooperar con los demas vendedores. Al coopear encontramos dos tipos de pacto, el cartel, que es un grupo de empresas que trabajan como una sola, y la colusion, en la cual las empresas se reparten el mercado.
+Un ejemplo de este mercado son los medicamentos.
+
+## Competencia monopolística
+
+Las principales caracteristicas de este mercado es que la competencia entre los vendedores es alta dado que hay muchos, al igual que compradores que tambien hay muchos y las empresas tienen que competir por ellos. Podemos encontrar productos diferenciados y algun tipo de barrera al entrar a este mercado, como por ejemplo de tipo legal. Los vendedores tienen algo de control sobre el precio de sus productos y la transparencia es imperfecta.
+Observamos algún ejemplo claro como los teléfonos móvil y los pañuelos de papel.
+
+## Otras tipologías
+
+Así como en los monopolios y oligopolios hablábamos de la raíz griega πόλλειν, (*polein*, "vender"), podemos igualmente encontrarnos con monopsonios y oligopsonios. En este caso, aparece la raíz ψωνιος (*psonios*, "compra"), por lo que nos van a aparecer mercados en los que el poder lo tienen los compradores, bien porque sólamente hay uno (monopsonios) o porque hay muy pocos (oligopsonios).
+
+Ejemplo de este tipo de mercados suele ser el sistema nacional de salud y su compra centralizada de medicamentos: un único comprador que engloba la compra de todos los medicamentos para el país, otorgando por tanto un poder importante a la hora de negociar el precio de compra. Cuando este sistema se transfiere a las comunidades autónomas, surgen distintos sistemas de salud encargados de realizar esta compra, por lo que se transforma el mercado en un oligopsonio. Los sistemas pierden algo de poder, pero al seguir siendo un número reducido, pueden seguir influyendo sobre el precio, y por supuesto, pueden agruparse para aumentar su poder al igual que sucedía en los oligopolios.

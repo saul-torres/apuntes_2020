@@ -1,0 +1,29 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# La elasticidad
+
+Para explicar el comportamiento de los consumidores podemos aceptar como punto de partida que los individuos tienden a elegir aquellos bienes y servicios que valoran más, es decir, aquellos que les reportan una mayor utilidad o satisfacción. En otras palabras, vamos a suponer que los individuos maximizan su utilidad, lo que implica que eligen el conjunto de bienes de consumo que más prefieren.
+
+La utilidad es el sentimiento subjetivo de placer o satisfacción que una persona experimenta como consecuencia de consumir un bien o un servicio.
+
+El principio equimarginal o de la igualdad de las utilidades marginales por euro gastado establece que cada bien se demanda hasta el punto en que la utilidad marginal del último euro gastado en él es exactamente igual a la utilidad marginal del último euro gastado en cualquier otro bien.
+
+El excedente del consumidor de un bien es la diferencia entre la cantidad máxima que éste estaría dispuesto a pagar por el número de unidades del bien que demanda y la cantidad que realmente paga en el mercado. El excedente del consumidor es la diferencia entre la utilidad total de un bien y su valor total de mercado.
+
+## Elasticidad
+
+La elasticidad es un concepto económico introducido por el economista inglés Alfred Marshall, para cuantificar la variación experimentada por una variable al cambiar otra. El concepto económico de la elasticidad parte de la existencia de dos variables, entre las que existe una cierta dependencia, por ejemplo el número de automóviles vendidos y el precio de los automóviles. La elasticidad mide la sensibilidad de la cantidad de automóviles vendidos ante la variación del precio de los mismos.
+
+## Elasticidad de la demanda
+La elasticidad es una medida de la sensibilidad de la cantidad demandada o de la cantidad ofrecida ante el cambio en alguno de sus factores determinantes.
+
+La demanda es elástica si la elasticidad precio de la demanda es mayor que 1; es inelástica si es menor que 1, y es de elasticidad unitaria si es igual a 1.
+
+## Elasticidad de la oferta
+El concepto de elasticidad que se ha aplicado a la curva de demanda también puede referirse a la curva de la oferta.
+
+La elasticidad es un indicador que nos sirve para medir los cambios de una variable cuando cambia otra. Hay dos tipos de elasticidad, segun: A)Precio de la demanda: Mide que es lo que sucede a la demanda cuando cambia el precio. B) Precio de la oferta: Mide los cambios en la oferta cuando varia el precio. Ambas varioaciones cuando son mayores que el 1% se llaman elasticas, y cuando estan entre el 0 y 1%, inelasticas.
+

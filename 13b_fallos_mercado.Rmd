@@ -1,0 +1,20 @@
+# Los fallos de mercado
+
+el funcionamiento de los mercados en ocasiones falla. Estos fallos de mercado se pueden sintetizar en la siguiente tipología:
+A) Competencia imperfecta.
+B) Externalidades.
+C) Información imperfecta.
+
+> Un fallo del mercado tiene lugar cuando un mercado no asigna eficientemente los recursos por sí solo.
+
+## Las externalidades
+Aparecen externalidades, como la contaminación, que el mercado no aborda. Así, una industria que produce papel puede contaminar las aguas de un río al que vierte sus residuos. La actividad de la industria perjudica a los agricultores que utilizan el agua del río y los precios de producir papel no reflejan el perjuicio que se está ocasionando a los agricultores (véase Capítulo 8).
+
+## Competencia imperfecta
+Existen mercados en los que la competencia es imperfecta. Como veremos en el Capítulo 6, en muchos mercados uno o más participantes pueden influir sobre los precios, fijando el nivel que les resulte más conveniente.
+
+## Información imperfecta
+La información en muchos casos es imperfecta. En algunos mercados el supuesto de información plena está lejos de la realidad, lo que supone un fallo del mercado (véase Capítulo 8). 
+
+Este tipo de problemas sugiere la conveniencia de que en determinadas circunstancias el Estado pueda intervenir en la economía para tratar de mejorar su funcionamiento tanto a nivel de mercados concretos (esto es, vía políticas microeconómicas) como desde una perspectiva global, esto es, mediante el recurso a las políticas macroeconómicas. Por ello, en los países occidentales es frecuente hablar de economías mixtas.
+
