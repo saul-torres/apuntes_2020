@@ -1,0 +1,66 @@
+\mainmatter
+
+# (PART) El Entorno Económico de la Empresa {-}
+
+# ¿Qué es la economía?
+
+Según Mick Jagger (el que por cierto posee un título en economía de la London School of Economics) y los Rolling Stones, ["You Can't Always Get What You Want"](https://www.youtube.com/watch?v=oqMl5CRoFdk), o lo que es lo mismo, “no puedes siempre conseguir lo que quieres”.
+
+¿Por qué no podemos conseguirlo? Porque todos nosotros (los que a partir de ahora nos llamaremos sujetos económicos y que posteriormente definiremos en profundidad) tenemos por lo general necesidades ilimitadas. Si queremos satisfacer estas necesidades, requeriremos de recursos, que al contrario de lo que sucede con nuestras necesidades, no son ilimitados sino generalmente escasos.
+
+La economía se puede definir como la ciencia que dedica sus esfuerzos al estudio de la forma en que los individuos eligen en condiciones de escasez y de las consecuencias de esas elecciones para la sociedad. En la antigua Grecia, economía hacía referencia a "administrar el patrimonio", por eso se define como "la ciencia de la elección": administrar es elegir entre distintas opciones (Jose Sande, 2015).
+
+La economía es la ciencia que estudia el modo en el que una sociedad gestiona sus recursos (Mankiw, 2002). Uno de los objetivos de la economía es buscar cómo deben asignarse los recursos disponibles para obtener la máxima utilidad de los mismos (o dicho de otra manera, el máximo beneficio). Para ello, a veces la economía recurre a modelos que ayudan a comprender y predecir la realidad. Algunos de ellos son el flujo circular de la renta o la curva frontera de posibilidades de producción.
+
+La **microeconomia** es una rama de la economía la cual estudia el comportamiento de los agentes individuales (hogares, empresas, sector público) y el funcionamiento de los mercados para asignar los recursos escasos a los distintos usos alternativos.
+También estudia como se forman los precios mediante la interacción de los hogares y de las empresas en los distintos mercados.
+
+La **macroeconomia** es otra rama de la economía que se encarga del estudio de los fenómenos que afectan al conjunto de los grandes agregados económicos (Renta Nacional, PIB...), que nos permiten obtener una visión global de la economía de un país.
+Su objetivo principal es comprender y mejorar los resultados de la economía en su entorno mas global.
+
+## Los agentes económicos
+
+Los protagonistas de las actividades económicas somos todos los ciudadanos, también llamados agentes económicos en el entorno de la vida económica. Dependiendo del papel que se juega en la actividad dentro de nuestro sistema, se agrupa en una de estas tres categorías:
+
+* Economía doméstica: Su función es el consumo y el objetivo la máxima satisfacción con unas limitaciones de renta y preferencias.
+* Empresas: Se basan en la producción y en el máximo beneficio con limitaciones de presupuesto financiero y tecnología.
+* Sector público: Su función es la regulación suministro de bienes públicos y el objetivo es el máximo bienestar económico y colectivo con las limitaciones de los ingresos públicos.
+
+## La escasez y el problema de tener que decidir
+
+Como hemos dicho anteriormente, los sujetos económicos nos enfrentamos en nuestro día a día a la escasez. La escasez no entendida como un problema tecnológico, sino de disparidad
+entre nuestros deseos y los medios de los que disponemos para satisfacerlos.
+Por lo tanto, igualmente nos encontramos día a día frente a decisiones que se nos plantean para decidir qué necesidades satisfacemos primero y a cuales debemos renunciar. A la hora de tomar estas decisiones, los sujetos económicos nos basamos en varios principios básicos, presentes en todas y cada una de nuestras decisiones.
+
+* Principio de escasez
+* Principio Coste-Beneficio
+* Principio de los incentivos
+* Principio de eficiencia y equidad
+
+## Los costes económicos en la toma de decisiones
+
+La economía nos enseña que "no hay nada gratis". Dicho de otra forma, todas nuestras decisiones tienen un coste asociado, que es lo que denominamos coste de oportunidad.
+
+> **Coste de oportunidad**: es el coste asociado a aquello a lo que se renuncia cuando se toma una decisión. Más concretamente, el coste de oportunidad de un bien o servicio es la cantidad de otros bienes o servicios a la que se debe renunciar para obtenerlo.
+
+Pongamos un ejemplo. Supongamos que es media mañana y es la hora de nuestra pausa para el almuerzo. Después de haber desayunado a primera hora del día, a esa hora puede ser bastante normal que tengamos tanto hambre como algo de sed. Sin embargo, hemos salido apresurados de casa por la mañana y hemos dejado olvidado nuestro monedero. Tan sólo tenemos 1€.
+En el bar nos ofrecen bebida y comida, pero el refresco que deseamos cuesta 1€ y el pincho de tortilla que nos gusta tiene un precio de 1€ también. Debemos elegir, y debemos renunciar. Si elegimos saciar nuestra sed, y pedimos el refresco, estamos sacrificando el pincho de tortilla. Mantenernos con hambre es por tanto nuestro coste de oportunidad de elegir el refresco. El coste de oportunidad de elegir comer un pincho de tortilla es mantenernos con sed.
+
+Además de este concepto de coste de oportunidad, en nuestras tomas de decisiones aparecen otros costes que también nos influyen desde el punto de vista económico.
+
+> **Coste irrecuperable**: es un coste que en cualquiera de las opciones de decisión que nos planteemos, está presente. Al ser un coste que vamos a tener que asumir siempre, independientemente de nuestra decisión, no debería influir en la toma de decisión.
+
+Sigamos con nuestro ejemplo y supongamos ahora que además de lo anterior, para llegar al bar debemos cruzar una gran avenida, y tenemos la mala suerte de que en este momento está lloviendo a mares. Volviendo a la situación anterior, tanto si elegimos comernos el pincho de tortilla como bebernos el refresco, tendremos un coste adicional, que es estar mojados por la lluvia. Este es un coste irrecuperable.
+
+> **Coste de transacción**: es un coste en el que necesariamente incurrimos al realizar un intercambio económico, o más precisamente, una transacción en un mercado. 
+
+La existencia de estos costes de transacción fue desarrollada por primera vez por el economista Ronald Coase en su artículo "The Nature of the Firm" [@coase1937]. Coase explica que "cuando se desea operar una transacción en un mercado, es necesario investigar a los contratistas, proporcionarles ciertas informaciones necesarias y establecer las condiciones del contrato, llevar a cabo las negociaciones que instauren un verdadero mercado, establecer una estructura de control de las respectivas prestaciones de obligaciones de las partes, etc.". Sin embargo, es a John Kenneth Arrow a quien se debe el uso del término "coste de transacción" [@arrow1969].
+
+Los costes de transacción los podemos agrupar en tres grandes categorías:
+
+* Costes de investigación e información, que son los costes en los que incurrimos cuando queremos saber si el producto que queremos intercambiar está disponible en el mercado, quién tiene el menor precio, etc. Incluyen la recopilación de la información, la comparación de las alternativas, el análisis de su relación calidad/precio, etc.
+* Costes de negociación y de decisión, que son los costes necesarios para llegar a un acuerdo con la otra parte de la negociación (tiempo, redacción de documentos).
+* Costes de vigilancia y de ejecución, que son los costes necesarios para asegurar que ambas parten cumplen con lo pactado según los términos acordados, así como los costes de tomar acciones si no se cumple con lo previsto.
+
+Imagina que has ido de viaje a la vecina Portugal (Oporto por poner un lugar algo más concreto) por vacaciones y deseas traer un buen regalo a la familia: un juego de toallas. Recorrerte durante toda una tarde la zona más turística de Oporto buscando las mejores ofertas, así como los diseños más adecuados y las toallas de mejor calidad supone un coste de investigación e información. Una vez que has decidido el local con el mejor género y mejores precios, llegar a un acuerdo con el propietario por el juego de 6 toallas que quieres adquirir, supone un coste de negociación. El arte del regateo. Por último, comprobar que el género adquirido es de algodón puro y de buena calidad (con envío de muestra a un laboratorio independiente para su análisis si nos ponemos exquisitos) sería un coste de vigilancia y ejecución. Todos ellos, serían ejemplos de costes de transacción.
+
