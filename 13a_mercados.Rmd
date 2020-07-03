@@ -54,7 +54,7 @@ Las barreras a la entrada son factores que limitan la entrada de nuevas empresas
 
 ## Oligopolio
 
-Del griego antiguo ὀλιγς (*oligos*, "poco", "pocos"), y de πόλλειν, (*polein*, "vender"). 
+Del griego antiguo ὀλίγος (*oligos*, "poco", "pocos"), y de πόλλειν, (*polein*, "vender"). 
 
 Este tipo de mercados esta caracterizado por tener pocos vendedores y muchos compradores, en el cual encontramos una gran competencia entre los vendedores e incluso encontramos pactos. Aqui las decisiones de un sujeto afectan a los demas, lo cual se llama: Interdependencia estrategica.
 En estos mercados los vendedores deben elegir entre conseguir el maximo beneficio o cooperar con los demas vendedores. Al coopear encontramos dos tipos de pacto, el cartel, que es un grupo de empresas que trabajan como una sola, y la colusion, en la cual las empresas se reparten el mercado.

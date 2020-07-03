@@ -1,4 +1,6 @@
-# (PART) Economía y Administración de Empresas {-}
+\mainmatter
+
+# (PART) El Entorno Económico de la Empresa {-}
 
 # ¿Qué es la economía?
 

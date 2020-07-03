@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Oferta y demanda
 
 La oferta y la demanda son dos conceptos recurrentes que aparecen cuando hablamos de economía. Son las dos fuerzas o palancas que hacen que las economías de mercado funcionen. La oferta y la demanda determinan la cantidad que se produce de cada bien y el precio al que debe venderse. Y esto lo hacen al interactuar en los mercados. El mercado de un producto está formado por todos los vendedores y compradores de un producto, y por lo tanto, por su oferta y su demanda.
