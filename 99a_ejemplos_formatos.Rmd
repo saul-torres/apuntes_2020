@@ -1,0 +1,26 @@
+# Prueba de formatos de texto
+
+Texto normal
+
+**Texto negrita**
+
+*Texto cursiva*
+
+> Texto en cita.
+Aquí se puede seguir escribiendo la cita.
+Sin problema alguno.
+
+Aquí ya es otro párrafo.
+
+**Note:** this is something I don't want to call attention to.
+
+
+-----------------------------------------------------------
+Table multiline text bla bla bla bla
+bla bla bla bla bla bla bla ... the
+blank line below is important 
+
+-----------------------------------------------------------
+
+
+

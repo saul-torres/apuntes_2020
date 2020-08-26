@@ -11,7 +11,7 @@ Sin embargo, con el paso del tiempo, he ido notando que más allá de unas buena
 
 Lo ideal sin duda alguna era poder recomendar a mis alumnos un libro de referencia con el que poder seguir la asignatura. Afortunadamente manuales de introducción a la economía y a la administración de empresas hay muchos. Sin embargo, recomendar un libro de 400-500 páginas para un curso introductorio en el que ese contenido se puede ver en 5-8 semanas de clase es, desde mi punto de vista, un pequeño despropósito.
 
-Aunque todos pensamientos estaban en mi cabeza, y parecía tener clara la necesidad de tener que fabricarme algo a mi gusto y totalmente adaptado, me faltaba la forma de articularlo. Después de unos años trasnteando con `R`, lenguaje de programación que poco a poco he ido aprendiendo y con el que he ido descubriendo como hacer cada día más cosas, llegué hasta el paquete [Bookdown](https://bookdown.org/). Más o menos, y de una forma muy breve, es un paquete que permite crear una estructura de libro utilizando el lenguaje *Markdown*. ¿Ventajas que le veo? Tener actualizado y online (y por tanto disponible para mis alumnos) este compendio de apuntes.
+Con estos todos pensamientos en mi cabeza, y toda vez que parecía tener clara la necesidad de tener que fabricarme algo a mi gusto y totalmente adaptado, me faltaba la forma de articularlo. Después de unos años trasteando con `R`, lenguaje de programación que poco a poco he ido aprendiendo y con el que he ido descubriendo como hacer cada día más cosas, llegué hasta el paquete [Bookdown](https://bookdown.org/). Más o menos, y de una forma muy breve, es un paquete que permite crear una estructura de libro utilizando el lenguaje *Markdown*. ¿Ventajas que le veo? Tener actualizado y online (y por tanto disponible para mis alumnos) este compendio de apuntes sin tener que preocuparme demasiado de formatos ni estructuras.
 
 Espero poder decir dentro de un par de años que este experimento ha fraguado correctamente, y que quienes lo estáis leyendo, podéis tener aquí algo así como un que os sirva para el estudio y nos permita dedicar el tiempo de clase a interiorizar los conceptos más que a aprender sobre ellos.
 
@@ -29,6 +29,16 @@ El documento está dividido en tres grandes bloques, los mismos en los que suele
 
 Casi todos los contenidos tienen un carácter básico e introductorio, con una visión bastante aplicada a la ingeniería, y están enfocados principalmente a una asignatura general de economía y administración de empresas de nivel de grado. Sin embargo, en algunas secciones aparecerán contenidos con un mayor nivel de detalle, más avanzados y con un mayor grado de aplicación, que están pensados para una asignatura de nivel de máster.
 
+## Lecturas recomendadas {-}
+
+Lo que tienes entre manos (o en la pantalla de tu ordenador, en todo caso delante de los ojos) es una versión muy previa de lo que algún día serán unos buenos apuntes. De momento es un compendio de las secciones más relevantes que he encontrado en alguno de los manuales de economía y empresa que han pasado por mis manos y más me han gustado y que paso a enumerar. Para ampliar cualquiera de los contenidos, no tienes más que recurrir a ellos, pues cualquiera de estos libros contiene mucho mayor detalle en los distintos temas abordados, y que de nuevo al estar estos apuntes enfocados a una asignatura de carácter introductorio, son vistos sin profundidad aquí.
+
+* Juan Manuel Blanco. "Economía: teoría y práctica". McGraw Hill España. 5ª edición.
+* Gregor N. Mankiw. "Principios de economía". Cengage Learning España. 7ª edición.
+* Michael Parkin. "Economía". Pearson Education. 12ª edición.
+* Eduardo Bueno Campos. "Curso básico de economía de la empresa. Un enfoque de organización". Pirámide. 4ª edición.
+* José Moyano Fuentes. "Adminsitración de empresas. Un enfoque teórico-práctico". Pearson Education.
+
 ## Agradecimientos {-}
 
 Es de rigor aquí también agradecer a los alumnos que han formado parte de este proceso, porque gracias a los comentarios e interés de algunos de ellos, algunos apartados han ganado en contenidos, calidad y ejemplos.
@@ -36,3 +46,5 @@ Es de rigor aquí también agradecer a los alumnos que han formado parte de este
 Voy a permitir el destacar algunos de ellos, que sin duda han colaborado y ayudado más a la elaboración del documento:
 
 * David Fernández Díaz (Curso 2018/2019, Grado en Ingeniería de los Recursos Energéticos)
+
+Si has llegado leyendo hasta aquí y detectas en el documento algún error, así como tienes cualquier sugerencia o cambio que crees puede mejorar estos apuntes, no dudes en ponerte en contacto conmigo porque sin duda agradeceré tu interés.

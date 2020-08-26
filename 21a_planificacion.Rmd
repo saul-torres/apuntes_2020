@@ -1,14 +1,41 @@
 # Planificación y control
 
-Texto.
+La planificación se centra en la búsqueda de la forma de lograr el futuro deseado para la empresa. Implica determinar la misión de la misma y los objetivos a conseguir, y por tanto, las acciones a realizar para alcanzar ese estado final deseado. Para ello se realizan los planes, tanto a corto como a largo plazo, en los que además de todo lo anterior, se recoge la distribución de los medios a emplear.
+
+Sin embargo, no basta sólo con planificar. Es necesario llevar a la práctica todo lo planeado y al mismo tiempo, asegurar un control de lo realizado para asegurarse de que se encuentra ajustado a lo planificado. Pero al mismo tiempo, de poco sirve planificar y controlar si no se dispone de un sistema de información eficaz que permita la comunicación entre ambos sistemas y la retroalimentación de su conjunto de forma que se permita la mejora continua.
+
 
 ## La planificación
 
-Texto.
+Planificar es la primera de las actividades que componen la tarea directiva, y es la primera porque debe ser anterior a todas las demás. La planificación consiste en la elaboración de un documento llamado plan en el que se recoge lo que debe realizarse en un futuro, así como cómo debe hacerse y quién es el encargado de cada una de las acciones que deben hacerse. Desde un punto de vista formal, la planificación exige un análisis de la situación y de la realidad en base al cual se establecerán los objetivos que sean viables y que puedan ser identificados, con el fin de estudiar las acciones que pueden llevar a la consecución de los mismos, eligiendo finalmente la acción que se considere más oportuna.
+
+Se puede decir que planificar es “diseñar el futuro”, llevar ese diseño al papel para que sirva de guía a los miembros de la empresa e intentar que el futuro se desarrolle tan y como hemos planificado. Steiner (1979) define la planificación como el proceso que determina los grandes objetivos de una organización y las políticas y estrategias que gobernarán  la adquisición, uso y disposición de recursos para conseguir tales objetivos.
+
+En la planificación se definen objetivos, se diseñan políticas y se asignan recursos con la finalidad de conseguir unos resultados deseados. La definición de unos objetivos concretos nos permitirá orientar las metas hacia las que debemos dirigirnos y al mismo tiempo, determinar los recursos a utilizar. El diseño de unas políticas adecuadas en función de los objetivos buscados nos va a permitir elegir aquellos instrumentos que nos ayudarán en el camino. Y por último, la correcta asignación de los recursos disponibles nos facilitará la consecución de los objetivos y ayudará en la búsqueda de la eficiencia.
+
+La planificación permite fijar las bases para medir el desempeño global y el de cada una de las unidades organizativas, y requiere de una serie de componentes. Primeramente, de una especificación del tiempo a que se refiere. En segundo lugar, de una concreción de la unidad organizativa para la que se formula. Y por último, de características como exactitud, flexibilidad, racionalidad, posibilidad o facilidad para su ejecución y aspectos cuantitativos y cualitativos.
+
+Es normal hablar en la planificación de tres conceptos: misión, propósito y objetivo.
+
+1.	MISIÓN. Cuando hablamos de misión, nos referimos al objetivo global que establece la empresa respecto a una situación e intereses presentes y bajo el cual se establecen los criterios necesarios para el proceso de toma de decisiones. Podemos decir que la misión responde a la pregunta de “¿cuál es nuestro negocio actual y cómo debemos actuar para hacernos un hueco en el mercado y superar a nuestros competidores?”
+A menudo cuando se habla de misión, aparece también el término “visión”. En este caso lo que cambia es el horizonte temporal. Así como en la definición anterior nos hemos hecho referencia a una situación presente, en el caso de la visión esa referencia temporal es más a largo plazo, a futuro. Esta visión de la empresa se entiende en ciertos manuales como la suma de dos términos: la misión y el propósito.
+2.	PROPÓSITO. El propósito representa los valores y las creencias organizativas que dan configuración y carácter propio a la organización, definiendo su forma de actuar y el por qué de su existencia. El propósito implica el establecimiento de unos criterios que indican la vía a seguir en la toma de decisiones. Los propósitos vienen asociados a unos determinados valores como son el del triunfo, la estabilidad, el esfuerzo y el compromiso con la organización.
+3.	OBJETIVO. Por último, los objetivos se entienden como la expresión concreta y operativa a desarrollar por la empresa. Un objetivo señala la cuantificación temporal y espacial que se debe alcanzar, y por tanto deben ser medibles (para la determinación de su consecución o no), específicos (concretos y concisos, perfectamente definidos) y alcanzables (de nada sirven utopías u objetivos inalcanzables para la organización). Por lo general, la consecución de un objetivo debe suponer un incentivo para la organización.
+
 
 ## El ciclo de la planificación
 
-Texto.
+Como puede entenderse, el proceso de la planificación no puede realizarse de una forma rápida ni inmediata. La planificación consta de una serie de etapas, que deben realizarse de forma continua y en ningún caso dando lugar a un plan definitivo, pues todos los planes admiten una evolución continua. Por lo general, y según diversos autores, estas son las etapas más aceptadas de la planificación:
+
+1.	DIAGNÓSTICO E IDENTIFICACIÓN DEL PROBLEMA. El punto de partida lo supone el análisis necesario para diagnosticar la situación actual, tanto de la empresa como del entorno que la rodea. De este análisis surge la definición y determinación de los problemas actuales y futuros así como de sus interrelaciones. Es una etapa de recogida de información, con determinación de los problemas y sus causas.
+2.	ESPECIFICACIÓN DE LOS OBJETIVOS. En esta etapa se fijarán los objetivos, tanto los generales como los subordinados. Los objetivos deben ser asequibles, realistas, ajustados a los recursos disponibles y asignados, deben expresarse jerárquicamente y de una forma clara, y deben de ser conocidos por todas las personas de la organización.
+3.	ESTABLECIMIENTO DE PREMISAS. Una premisa es un pronóstico sobre aquellas variables que no pueden ser controladas por la empresa y que sin embargo afectarán de una forma importante al plan. Establecer las premisas es una tarea indispensable si se quiere elaborar un plan coherente, puesto que afectarán de forma importante la forma en la que se prevé alcanzar los objetivos.
+4.	ESTABLECIMIENTO DE LAS LÍNEAS DE ACCIÓN. En esta fase, con una marcada componente creativa, se investigan y determinan las vías de actuación que se consideren más idóneas para la consecución de los objetivos. Se especificarán las tareas a realizar así como las actuaciones concretas que deberán ejecutar los distintos componentes de la empresa. Se deben aplicar criterios de eficiencia y efectividad que llevarán a que el número de alternativas presentado no sea ni demasiado pequeño ni excesivamente elevado.
+5.	EVALUACIÓN DE LAS ALTERNATIVAS. Esta etapa consiste en valorar cada una de las alternativas establecidas en la etapa anterior. Se trata de expresar en términos cuantitativos los inconvenientes y las ventajas de manera que sea posible establecer un orden jerárquico entre todas las alternativas que posibilite la elección de una de ellas. Se deben considerar aspectos como costes, ingresos, riesgos, posibilidades, sinergias, dificultades, etc…
+6.	ELECCIÓN DE LA MEJOR ALTERNATIVA POSIBLE. Después de haber considerado todas las alternativas y procedido a su evaluación, el paso siguiente consiste en elegir entre todas las posibles una opción para su puesta en acción. Una vez elegida una opción, el plan queda listo para ser ejecutado.
+7.	ELABORACIÓN DE PLANES DERIVADOS. El plan puede necesitar de planes derivados que ayudan a sustentar y complementar el plan básico, y que se realizarán en esta fase.
+8.	PRESUPUESTACIÓN. Es la última fase, y en la que se convierten todos los planes en números. Esto permite no sólo el seguimiento puntual de los logros  parciales  en términos objetivos, sino el control que posibilita la detección de las desviaciones que se vayan produciendo entre lo previsto y lo realmente sucedido.
+
 
 ## Características de la planificación
 
@@ -16,11 +43,35 @@ Texto.
 
 ## El control
 
-Texto.
+El sistema de control supone el último paso de la administración de la empresa, y está relacionado de una forma directa con el paso anterior, el de planificación. Si con la función de planificación buscamos determinar lo que queremos lograr y cómo conseguirlo, con la función de control tratamos de asegurar que los planes se van cumpliendo según las previsiones realizadas.
+
+Controlar consiste básicamente en verificar que todo se vaya desarrollando según lo que estaba previsto en los planes, en las políticas y en los programas concretos que los desarrollan. Según Fayol (1916) el control en una empresa consiste en verificar si todo se realiza conforme al programa adoptado, a las órdenes impartidas y a los principios admitidos. Tiene la finalidad de señalar las faltas y los errores, a fin de que se pueda repararlos y evitar su repetición y se aplica a todo: cosas, personas y actos. La salida de este sistema de control es información.
+
 
 ## Fases del control
 
-TExto.
+El control, unido a una planificación anterior, es una tarea lo suficientemente compleja y extensa en el tiempo como para que sea necesario que esté dotado de una estructura organizativa. Es en definitiva un nuevo proceso que se lleva a cabo de una forma continua y que está compuesto por una serie de etapas:
+
+1.	ESTABLECIMIENTO DE ESTÁNDARES. El establecimiento de estándares mediante criterios y normas de evaluación, debe permitir fijar en términos concretos los objetivos que se busca alcanzar, por un lado, y medir los resultados parciales que se vayan consiguiendo, por otro. Los mejores criterios serán aquellos que fijen metas evaluables en términos cuantitativos especificados en términos reales, monetarios o mediante baremos. Aunque se pueden establecer medidas de cualquier tipo, los estándares más utilizados son los físicos, de costes y de ingresos.
+2.	MEDICIÓN DE LAS ACTIVIDADES. En esta fase se trata de medir los logros reales y compararlos con los estándares establecidos. Lo ideal es disponer de un sistema de control que no sólo evalúe la actividad realizada una vez ésta ha finalizado, sino que es interesante disponer de evaluaciones intermedias que permitan corregir las posibles desviaciones antes de que éstas se conviertan en definitivas y de mayor magnitud. En general, si los estándares se han establecido de una manera adecuada, y si se dispone de los medios necesarios, la empresa puede controlar los resultados prácticamente en tiempo real.
+3.	CORRECCIÓN DE LAS DESVIACIONES. La finalidad del control no es detectar los errores, sino tratar de evitarlos y en todo caso, corregirlos. Para poder corregir una desviación, es necesario previamente detectarla, que es lo que se ha llevado a cabo en la etapa anterior. En esta etapa, una vez detectadas las anomalías, se procede a su análisis y a determinar las causas que las han provocado. Normalmente estas causas pueden ser dos: por un lado, una mala ejecución de la planificación; por otro lado, una mala planificación. En todo caso, el análisis llevado en esta fase debe de servir como sistema de retroalimentación del sistema de administración general, pues esta información ayuda notablemente a la planificación, organización, gestión de personal y dirección de la empresa.
+
+Es conveniente reseñar que no todas las desviaciones han de ser negativas: es posible también obtener un determinado superávit sobre los hechos planificados. Por esta razón se habla de acciones contractivas (reductoras de la actividad) y de acciones expansivas (amplificadoras de la actividad) para alcanzar los objetivos prefijados dentro de los niveles deseados.
+
 
 ## Características del control
+
+Las principales características que presenta el sistema de control de una empresa son las que se recogen en la tabla siguiente:
+
+CARACTERÍSTICA | Definición
+-------------- | ----------
+CLARIDAD Y SIMPLICIDAD | Los ejecutantes de la actividad y los evaluadores de los resultados deben comprender perfectamente qué es lo que se pretende con el control.
+ADAPTABILIDAD | El control incorporará mecanismos de regulación capaces de adaptarse a las circunstancias cambiantes.
+EFICACIA Y EFICIENCIA | La primera exige capacidad para generar las señales pertinentes en los momentos oportunos. La segunda demanda un control que justifique su coste.
+CONTINUIDAD | El control debe realizarse de forma continuada aunque en determinadas actividades baste la comparación del curso de la actividad en unos momentos concretos.
+SEGURIDAD Y OBJETIVIDAD | Las cosas se controlan mediante el control de los actos realizados por las personas. El sistema gana si se utilizan criterios rigurosos e imparciales.
+ADECUACIÓN Y ACEPTACIÓN POR LOS MIEMBROS | Los controles deben adaptarse a las personas a las que se dirigen y al objeto que se controla. Para que un sistema sea aceptado debe referirse a objetos significativos y que sean aceptados por todos sus miembros.
+OPORTUNIDAD | La información de cualquier desviación, así como las medidas correctoras, deben llegar en el momento preciso para que sus efectos puedan ser determinados.
+ENFOQUE SOBRE PUNTOS ESTRATÉGICOS | Deben controlarse las áreas donde las desviaciones sean más relevantes o generen consecuencias graves.
+
 

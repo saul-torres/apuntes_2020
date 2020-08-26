@@ -1,15 +1,111 @@
 # Variables macroeconómicas
 
-Introducción al capítulo.
+Hemos visto al inicio de estos apuntes que la microeconomía se ocupa del comportamiento de los agentes individuales (empresa, consumidor) y del funcionamiento de cada mercado. Por ejemplo, la determinación del precio y la cantidad producida de un bien y el estudio de los precios relativos son cometidos típicos de la microeconomía.
 
-## El Producto Interior Bruto
+La macroeconomía, por el contrario, estudia el comportamiento del sistema económico en su conjunto (las magnitudes agregadas): la determinación de la producción total de un país, de los precios globales, del empleo, etc. Por ejemplo, la evolución general de todos los precios de la economía, una caída del empleo total en un país, o el efecto que un impuesto general sobre la renta de las personas pueda tener sobre la producción total de un país, serán problemas tratados por la macroeconomía. Mientras que la microeconomía analiza partes individuales de una economía, la macroeconomía se preocupa del conjunto.
 
-Definición.
+Las principales variables de las que se ocupa la macroeconomía son aquéllas relativas a la producción agregada de un país (que correspondería a la agregación de todos los productos que se generan), el nivel general de precios (índice que representa los precios de todos los bienes) y el empleo total, entre otras magnitudes. La macroeconomía se fijará en la evolución de estas variables, de las posibles relaciones entre ellas y también de las fluctuaciones que puedan experimentar a lo largo del tiempo. Pero, antes de analizar su evolución es necesario conocer algo más sobre las magnitudes macroeconómicas. En primer lugar, estudiaremos cómo se agregan y se miden estas magnitudes y analizaremos su significado.
 
-## El Índice de Precios de Consumo
+## Renta y riqueza
 
-Texto.
+El diagrama del Flujo Circular de la Renta nos enseña cómo se relacionan las empresas y los consumidores, y cómo a cambio de factores, los consumidores reciben lo que se denomina una renta. Estos factores pueden ser fuerza laboral (la capacidad de trabajar) pero también locales, medios de producción, activos financieros, etc, por lo que obtienen unas retribuciones adicionales. Así, definimos renta como la cantidad de dinero que recibe una persona por su contribución al mercado de factores.
+
+La renta de una persona va a depender por tanto de los factores productivos que posea y ponga a disposición en el mercado, así como del precio que obtenga por ellos en el mercado. Las personas pueden decidir entre gastar esta renta en consumo (o inversión), o ahorrarla. En este segundo caso estarán generando riqueza.
+
+La riqueza es el valor monetario de todos los bienes y derechos que posee una persona. Riqueza y renta están relacionadas. La riqueza la podríamos ver como el volumen de agua de una piscina, y la renta el agua del grifo que la llena. En función de la cantidad de renta que ingresemos podremos alcanzar un mayor o menor nivel de riqueza (siempre y cuando no tengamos el desagüe abierto).
+
+## La demanda agregada: el Producto Interior Bruto
+
+El problema de la agregación para obtener las variables macroeconómicas se manifiesta con especial intensidad en el caso de la producción. Si se trata de medir la producción de un país durante un año determinado es necesario, en primer lugar, buscar una unidad de medida común para todos los bienes y servicios producidos. Es fácil observar que los distintos productos se miden en unidades diferentes: el arroz en toneladas, los automóviles en unidades, el vino en litros y los servicios en horas o en clientes atendidos. No se pueden sumar bienes heterogéneos que, además, se miden en unidades distintas.
+
+La solución que se ha encontrado es agregar todos los bienes y servicios producidos a través de su valor de mercado. El valor de mercado de un producto se calcula multiplicando la cantidad producida de este bien por su precio de mercado. Una vez calculados los valores de mercado de todos los bienes y servicios de un país, que se expresarán en euros (u otra moneda), es posible agregar (sumar) todos ellos. La suma, que denominaremos producción agregada, se expresará también en unidades monetarias.
+
+Este método de agregación concede un mayor peso en la suma total (decimos que pondera más) a aquellos bienes que tienen un precio superior. La justificación que se suele dar es que, en un sistema de mercados competitivos, los precios reflejan las preferencias de los consumidores. Por tanto, este método concede más importancia a aquellos bienes más valorados por los consumidores.
+
+La medida más común de la producción agregada de un país es el Producto Interior Bruto (PIB), que se define como el valor de mercado de todos los bienes y servicios finales producidos durante un año en territorio nacional. Es importante analizar algunos elementos de esta definición con cierto detalle.
+
+a) El PIB se valora a precios de mercado, esto es, a través del precio que pagan los consumidores. Veremos más adelante que hay alguna otra forma de valorar los productos.
+b) El PIB incluye tan sólo el valor de los bienes y servicios finales pero no el de los bienes y servicios intermedios que sirvieron para la fabricación de aquéllos. ¿Por qué no se incluyen los bienes intermedios? Porque el valor de estos bienes está ya incluido en el producto final. Si se sumase el valor de los bienes intermedios, se contaría dos veces su valor. Es el problema conocido como la doble contabilización.
+c) El PIB se computa a lo largo de un año. La producción se va generando constantemente y debe ser medida a lo largo de un período de tiempo. Dicho de otro modo, el PIB es una variable flujo.
+d) El PIB incluye sólo el valor de lo producido durante ese año. Si se vende ese año algo producido en otro año anterior, por ejemplo, un automóvil de segunda mano, el valor de esa venta no se incluirá en el PIB del año corriente. El motivo es que el valor de ese bien ya fue incluido en el PIB del año en que se produjo.
+e) Se incluye en el PIB lo producido en el interior de un país, con independencia de que los factores que lo producen sean propiedad de nacionales o de extranjeros. Existen otras formas de medir la producción agregada (por ejemplo, el Producto Nacional Bruto), que utilizan otros criterios distintos.
+
+### La comparación entre periodos. PIB nominal y PIB real
+
+El PIB es un indicador de la actividad económica en un país que sirve, entre otras cosas, para conocer si la producción agregada del país en cuestión aumenta y, también, para medir a qué ritmo lo hace. Sin embargo, el hecho de que el PIB se agregue a través de los precios genera algunos inconvenientes cuando se utiliza para comparar entre dos períodos del tiempo distintos. Si se observa que de un año a otro el PIB ha crecido, este crecimiento puede deberse a dos causas:
+a) Han aumentado las cantidades producidas de los bienes y servicios, o
+b) Los productos se venden a precios superiores y, por ello, su valor ha aumentado.
+Lo más común es que, de un año a otro cambien tanto las cantidades producidas como los precios. Para separar estos dos efectos, los economistas distinguen entre el PIB nominal y el PIB real.
+
+Cuando tenemos una serie de valores del PIB para años diferentes, definimos el Producto Interior Bruto nominal como aquél en el que se ha agregado la producción total del país utilizando los precios del año en el que se produjo cada bien o servicio. Por ello, esta magnitud se conoce también como PIB a precios corrientes. Las variaciones del PIB nominal pueden deberse tanto a cambios de las cantidades producidas como de los precios.
+
+Por su parte, se define el Producto Interior Bruto real como aquél que se agrega utilizado los mismos precios para todos los períodos. Estos precios son los de un año cualquiera que se toma como base para el cálculo. Por ello, esta magnitud se conoce también como PIB a precios constantes, ya que está expresada en unidades monetarias constantes de un año base. Como el PIB real se calcula utilizando siempre los mismos precios, sus variaciones se deben sólo a cambios en las cantidades producidas de los bienes.
+
+Uno de los indicadores más utilizados de la evolución de la actividad económica de un país es la tasa de crecimiento del PIB, que se define como el incremento porcentual del PIB real durante un año.
+
+Las tasas de crecimiento se pueden calcular también para el PIB nomina, pero entonces el significado es distinto, ya que estas tasas recogerían la variación de los precios. No obstante, cuando se habla de crecimiento de la economía o crecimiento de la producción en general se está haciendo referencia a la tasa de crecimiento del PIB real.
+
+Muchas veces resulta interesante conocer en cada país la cantidad que se produce por persona. Para ello se utiliza el PIB per capita, que se calcula como el cociente entre el PIB de un país y su número de habitantes. El PIB per capita representaría el valor del producto que correspondería a cada habitante si la producción se repartiera equitativamente.
+
+### Enfoques para obtener el PIB
+
+Hasta este momento hemos medido el Producto Interior Bruto de un país a partir del valor de la producción de todos los bienes y servicios generados. Es lo que vamos a denominar el enfoque del valor de la producción. Sin embargo, el PIB refleja otros dos aspectos macroeconómicos que son el gasto total y las rentas o ingresos totales. Dicho de otro modo, el PIB puede medirse también como el gasto total que se realiza en un país o como la suma de todas las rentas o ingresos en el país. Vamos a analizar estos dos últimos enfoques haciendo especial insistencia en que todos los criterios llegan al mismo resultado.
+
+Los bienes y servicios que se producen en un país salen al mercado y son comprados por los agentes económicos. Por tanto, podemos medir también el valor de la producción a través del gasto agregado efectuado por los compradores de estos bienes o servicios. Parece evidente que, en todo intercambio, el valor de lo que se vende debe coincidir con el desembolso del comprador. Por ello, el PIB también mide el gasto agregado de un país. Este segundo método para medir el PIB se conoce como el enfoque del gasto.
+
+Sin embargo, todavía hay otra forma de medir la el PIB que se denomina enfoque de las rentas o de los ingresos. En el intercambio de mercado, lo que es un gasto para una persona supone un ingreso para otra. Por tanto, el gasto total en la economía debe coincidir con la suma total de rentas o ingresos de todos los participantes. También podemos verlo de otro modo. El valor de un producto, una vez vendido, se reparte entre las personas que aportaron los factores productivos utilizados (salarios a los trabajadores, alquileres a los que aportaron el local, beneficio para el empresario, etc.). Por tanto, si sumamos todas las empresas, concluimos que el valor de la producción total de un país se reparte, en forma de rentas o ingresos, entre los que han participado en esta producción. Por tanto, el PIB también puede medirse como la suma total de rentas o ingresos que se generan en los procesos productivos de un país (salarios, alquileres, intereses, beneficios, etc.).
+
+## El nivel de precios
+
+Una de las informaciones que más interesa a los ciudadanos, ya sean amas de casa, trabajadores, pensionistas e incluso estudiantes de economía, es la relativa al crecimiento de los precios. No resulta tarea sencilla medir lo que aumentan los precios durante un determinado período de tiempo, ya que no basta con observar su evolución. Los bienes y servicios que compran los consumidores son muchos y muy variados; si alguien preguntase al economista ¿cuánto han subido «los precios» durante este año?, el primer impulso podría consistir en responder con otra u otras preguntas: ¿qué precios?, ¿el de la carne?, ¿el del pescado?, ¿el del pan?, ¿el de la gasolina? Sin embargo, es evidente que el interlocutor no está interesado en la variación del precio de ningún artículo concreto sino en la evolución de los precios «en general». Es necesario, por ello, obtener una magnitud que represente a todos los precios. El problema estriba en la manera de hacerlo.
+
+### El Índice de Precios de Consumo
+
+El Índice de Precios de Consumo (IPC) es la medida del nivel de precios más utilizada. Como su propio nombre indica, engloba, tan sólo, los precios de los bienes y servicios de consumo final, que compran las familias en un país, pero no los precios de los bienes de capital ni de los bienes intermedios. Por su carácter de índice, tiene la propiedad de tomar el valor 100 en un período del tiempo arbitrario, que se toma como base y que sirve como punto de referencia para los demás períodos. El IPC se ha calculado tradicionalmente a través de una fórmula conocida como Índice de Laspeyres convencional con los siguientes pasos:
+
+1. Se toma un año como base y, en ese año, se mide el porcentaje del gasto de la familia media en cada uno de los bienes. Estos porcentajes se utilizarán como ponderaciones para calcular el IPC en el resto de los períodos.
+2. Se mide el precio de cada producto en todos los años en los que se desea calcular el IPC, incluyendo el año base.
+3. Se calcula el IPC como una media ponderada de los cocientes, para cada producto, entre el precio en el año en cuestión y el precio de ese producto en el año base.
+
+### El deflactor del PIB
+
+El IPC no es la única manera de medir el nivel general de precios. Se estudió anteriormente la diferencia entre el Producto Interior Bruto (PIB) nominal y el PIB real. Mientras que el primero se calculaba agregando los valores de los bienes medidos según los precios de cada año, el segundo se obtenía valorando los bienes según los precios de un año que se tomaba como base. Por tanto, las diferencias que se pueden observar entre el PIB nominal y el PIB real se deben a las variaciones de los precios entre el año base y el año corriente. Es posible utilizar el cociente entre estas dos magnitudes como una medida del nivel general de precios que se conoce como deflactor del PIB.
+$$\mathrm {\text{Deflactor del PIB} = \frac{\text{PIB nominal (año t)}}{\text{PIB real (año t)}}·100}$$
+El deflactor del PIB es un índice de precios que toma el valor 100 en el año base y será tanto más elevado en el año «t» cuanto mayor haya sido el incremento de los precios entre el año 0 (año base) y el año t.
+
+Aunque los dos son índices que miden los precios agregados de un país, existen algunas diferencias entre el IPC y el deflactor del PIB.
+
+La primera diferencia es que el IPC tan sólo incluye los precios de los bienes que se consumen mientras que el deflactor del PIB incluye los precios de todos los bienes y servicios que se producen en el país. Por tanto, los precios de los bienes de capital (maquinaria, etc.) producidos en un país forman parte del deflactor del PIB, pero no se incluyen en el IPC.
+
+La segunda diferencia consiste en que los precios de los bienes de consumo importados se incluyen en el IPC, dado que los consumidores de un país los compran, pero no se computan en el deflactor del PIB al no ser producidos en el país.
+
+La tercera diferencia consiste en que el IPC, medido como un índice de Laspeyres convencional, pondera los precios según el consumo de un año base mientras que el deflactor del PIB pondera los precios según la producción de cada año. Obviamente esta diferencia es mucho menor si se utiliza el Índice de Laspeyres encadenado para calcular el IPC.
+
+¿Cuál de los dos índices de precios es más conveniente? Depende de lo que se desee medir. El IPC es más adecuado para determinar cuánto suben los precios para los individuos o las familias, dado que estos compran básicamente bienes de consumo. Para estudiar si los productos de un país se están encareciendo o no con respecto a los del extranjero puede ser más adecuado el deflactor del PIB.
 
 ## El mercado de trabajo
 
-Texto.
+La macroeconomía se ocupa también de estudiar las magnitudes agregadas relativas al nivel de empleo del factor trabajo. Estas variables guardan relación con aquéllas que se refieren a la producción, ya que a mayor nivel de empleo del factor trabajo mayor nivel de producción.
+
+Para analizar las variables relativas al empleo se clasifica la población de un país tal como lo hace la Figura 10.3.
+
+* La población en edad de trabajar está formada por todas las personas que han alcanzado la edad legal para poder trabajar (en España, por ejemplo, la edad está fijada en 16 años).
+* La población en edad de no trabajar está formada por aquéllos que no han alcanzado la edad legal para poder trabajar.
+* La población activa está formada por aquellas personas en edad de trabajar que han decidido dedicarse a una actividad remunerada en el mercado.
+* La población inactiva está formada por las personas en edad de trabajar que han decidido, en ese momento, no dedicarse a una actividad remunerada sino a otras actividades. Ejemplos de
+población inactiva son los estudiantes o las amas de casa o los jubilados. Es importante observar que formar parte de la población activa o inactiva constituye, en muchas ocasiones, una decisión voluntaria por parte de los individuos.
+* Los ocupados o empleados son aquellas personas que forman parte de la población activa y que logran encontrar un empleo.
+* Dentro de la población activa, hay otros que no encuentran empleo, aunque lo buscan, y se denominan desempleados.
+* De los ocupados, unos trabajan para otras personas (asalariados o trabajadores por cuenta ajena) y otros para sí mismos (trabajadores por cuenta propia o autónomos).
+
+Es importante señalar, atendiendo a la clasificación de variables flujo y fondo que se desarrolló al principio del capítulo, que tanto el número de desempleados como el de activos o de ocupados son variables fondo.
+
+Por otro lado, existen dos indicadores muy importantes del nivel de empleo, que son la tasa de actividad y la tasa de desempleo.
+
+a) La tasa de actividad es el porcentaje que representa la población activa dentro de la población en edad de trabajar.
+
+$$\mathrm {\text{Tasa de actividad} = \frac{\text{Población activa}}{\text{Población en edad de trabajar}}·100}$$
+
+b) La tasa de desempleo mide el porcentaje que representan los desempleados dentro de la población activa.
+
+$$\mathrm {\text{Tasa de desempleo} = \frac{\text{Desempleados}}{\text{Población activa}}·100}$$
