@@ -1,0 +1,53 @@
+# (PART) Ingeniería económica {-}
+
+# Introducción a la ingeniería económica.
+
+El Accreditation Board for Engineering and Technology [@abet1998] afirma que la ingeniería "es la profesión en la que el conocimiento de las ciencias matemáticas y naturales y naturales, adquiridos mediante el estudio, la experiencia y la práctica, se aplican con criterio para utilizar, económicamente, los materiales y las fuerzas de la naturaleza en beneficio de la humanidad". En esta definición, se destacan los aspectos económicos de la ingeniería, así como los aspectos físicos. Evidentemente, es esencial que la parte económica de la práctica de la ingeniería se realice bien. Así, los ingenieros utilizan los conocimientos para encontrar nuevas formas de hacer las cosas económicamente.
+
+La ingeniería económica implica la evaluación sistemática de los méritos económicos de de las soluciones propuestas a los problemas de ingeniería. Para que sean económicamente aceptables (es decir para ser económicamente aceptables, asequibles), las soluciones a los problemas de ingeniería deben demostrar un balance positivo de beneficios a largo plazo sobre los costes a largo plazo, y también deben:
+
+* promover el bienestar y la supervivencia de una organización,
+* incorporar tecnología e ideas creativas e innovadoras,
+* permitir la identificación y el escrutinio de sus resultados estimados, y
+* traducir la rentabilidad en la "cuenta de resultados" a través de una medida de mérito válida y aceptable.
+
+La ingeniería económica es el lado de los céntimos y euros de las decisiones que los ingenieros toman o recomiendan cuando trabajan para que una empresa sea rentable en un mercado altamente competitivo. En estas decisiones hay que buscar un equilibrio entre los diferentes tipos de costes y el rendimiento (tiempo de respuesta, seguridad, peso, fiabilidad, etc.) que proporciona el diseño propuesto o la solución del problema. La misión de la ingeniería económica es equilibrar estas compensaciones de la manera más económica. Por ejemplo, si un ingeniero de Ford inventa un nuevo lubricante para la transmisión que aumenta el consumo de combustible en un 10% y prolonga la vida útil de la transmisión en 30.000 millas, ¿cuánto puede gastar la empresa para poner en práctica este invento? La ingeniería económica puede proporcionar una respuesta.
+
+Algunas de las innumerables situaciones en las que la economía de ingeniería desempeña un papel crucial en el análisis de la alternativa del proyecto son las siguientes:
+
+1. Elegir el mejor diseño para un horno de gas de alta eficiencia
+2. Seleccionar el robot más adecuado para una operación de soldadura en una línea de montaje de automóviles
+3. Recomendar la compra o el alquiler de aviones para un servicio de reparto nocturno.
+4. Determinar el plan de personal óptimo para un servicio de asistencia informática.
+
+A partir de estas ilustraciones, debería ser obvio que la ingeniería económica incluye consideraciones técnicas importantes. Por lo tanto, la ingeniería económica implica un análisis técnico técnico, con énfasis en los aspectos económicos, y tiene el objetivo de ayudar a tomar decisiones.
+
+## Los principios de la ingeniería económica
+
+**1. Desarrollar las alternativas**
+
+> Es necesario definir cuidadosamente el problema. A continuación, la elección (decisión) se realiza entre alternativas planteadas. Las alternativas deben ser identificadas y definidas para su posterior análisis.
+
+**2. Centrarse en las diferencias**
+
+> Sólo las diferencias en los resultados futuros esperados entre las alternativas son relevantes para su comparación y deben considerarse en la decisión.
+
+**3. Usar una perspectiva consistente**
+
+> Los resultados prospectivos de las alternativas, económicas y de otro tipo, deben desarrollarse de forma coherente desde un punto de vista definido (perspectiva).
+
+**4. Usar una unidad de medida homogénea**
+
+> La utilización de una unidad de medida común para enumerar el mayor número posible de resultados posibles simplificará el análisis de las alternativas.
+
+**5. Considerar todos los criterios relevantes**
+
+> La selección de una alternativa preferida (toma de decisiones) requiere el uso de un criterio (o varios criterios). El proceso de decisión debe considerar tanto los resultados enumerados en la unidad monetaria como los expresados en alguna otra unidad de medida o explicitados de forma descriptiva.
+
+**6. Hacer patente las incertidumbres y el riesgo**
+
+> El riesgo y la incertidumbre son inherentes a la estimación de los resultados futuros de las alternativas y deben reconocerse en su análisis y comparación.
+
+**7. Revisar las decisiones**
+
+> La mejora de la toma de decisiones es el resultado de un proceso adaptativo; en la medida en que sea práctico los resultados iniciales previstos de la alternativa seleccionada deben ser comparados con los resultados reales obtenidos.

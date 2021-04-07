@@ -1,0 +1,52 @@
+# El valor del dinero y el tiempo
+
+El término capital se refiere a la riqueza en forma de dinero o propiedades que puede utilizarse para generar más riqueza. La mayor parte de los estudios de ingeniería incluyen la aplicación del capital durante periodos largos, de manera que es necesario considerar el efecto del tiempo. En este contexto, se reconoce que un euro (o cualquier otra moneda) tiene más valor hoy que dentro de un año o más tiempo, por la utilidad (o el interés) que puede generar. Por lo tanto, aceptamos la premisa de que el dinero tiene un valor en el tiempo.
+
+El capital en la forma del dinero que se requiere para personas, maquinaria, materiales, energía y otras cosas necesarias para la operación de una organización se clasifica en dos categorías básicas: el capital propio, que es el que poseen los individuos que invierten su dinero o propiedades en un proyecto u operación de negocios, con la esperanza de obtener una utilidad; y el capital de deuda, al que con frecuencia se llama capital prestado, se obtiene de prestamistas (por ejemplo, mediante la firma de documentos) para la inversión. A cambio, los prestamistas reciben un interés de los prestatarios.
+
+Es normal que los prestamistas no reciban ningún otro beneficio acumulable a partir de la inversión del capital prestado. No son los propietarios de la organización y no corren tanto riesgo como ellos al llevar a cabo el proyecto o la empresa. Entonces, el rendimiento fijo, en forma de interés, sobre el capital que prestaron es más seguro (es decir, tiene menos riesgo) que la percepción de utilidades por parte de los dueños del capital propio. Si el proyecto o la empresa tienen éxito, el rendimiento (utilidad) para los dueños del capital propio puede ser mucho mayor que el interés que reciban los prestamistas del capital de deuda. No obstante, los dueños podrían perder algo o todo el dinero invertido, mientras que los prestamistas, aun en tal caso, podrían recibir todo el interés que se les adeuda más la reposición del dinero que prestaron a la empresa.
+
+Existen razones fundamentales por las que el rendimiento del capital, en forma de interés y utilidad, es un ingrediente esencial de los estudios de ingeniería económica. En primer lugar, el interés y las utilidades son el pago a los proveedores de capital por abstenerse de disponer de éste durante el tiempo que se utilice. El hecho de que el proveedor llegue a obtener un rendimiento del capital actúa como un incentivo para acumular capital a través del ahorro, es decir, con la posposición del consumo inmediato con el objetivo de crear riqueza futura. En segundo lugar, el interés y la utilidad constituyen los pagos por el riesgo que corre el inversionista al permitir que otra persona u organización utilice su capital.
+
+En situaciones típicas, los inversionistas deben decidir si el rendimiento que esperan de su capital es suficiente para justificar su participación en un proyecto o una empresa que se les propone. Si su capital se invirtiera en un proyecto, los inversionistas esperarían, como mínimo, recibir un rendimiento, por lo menos, igual a la cantidad que sacrificaron por no usarlo en alguna otra oportunidad disponible de riesgo comparable. Dicho interés o utilidad disponible a partir de una alternativa de inversión es el coste de oportunidad de utilizar el capital en la actividad propuesta. Así, ya se trate de capital prestado o propio, existe un coste por emplearlo, en el sentido de que el proyecto y la empresa deben proporcionar un rendimiento suficiente que resulte atractivo, desde el punto de vista financiero, para los proveedores del dinero o las propiedades.
+
+En resumen, siempre que se requiera capital para los proyectos de ingeniería y otra clase de empresas, resulta esencial que su coste (esto es, valor en el tiempo) reciba un análisis apropiado.
+
+## El origen del interés
+
+Al igual que los impuestos, el interés ha existido desde los tiempos más antiguos que registra la historia humana. Los registros revelan su existencia en Babilonia, en el año 2000 a.C. En su forma más primitiva, el interés se pagaba en dinero por usar granos y otros bienes que se prestaban; también se pagaba en forma de semillas y otros artículos. Muchas de las prácticas actuales relacionadas con el interés provienen de las costumbres originales al prestar y devolver cereales y otros cultivos.
+
+La historia también revela que la idea del interés estaba tan arraigada, que ya en el año 575 a.C. existía una firma de banqueros internacionales, que tenía su casa matriz en Babilonia. El ingreso de dicha compañía provenía de las elevadas tasas de interés que cobraba por permitir usar su dinero para financiar el comercio internacional.
+
+De acuerdo con la historia antigua escrita, las tasas de interés anuales típicas sobre los préstamos de dinero oscilaban entre el 6 y el 25%, aunque en algunos casos previstos por la ley se permitían tasas tan altas como el 40%. El cobro de tasas de interés exorbitantes sobre los préstamos se denominaba usura, que desde tiempos de la Biblia estaba prohibida (véase el Éxodo 22:21-27).
+
+Durante la Edad Media, por lo general estaba fuera de la ley el cobro de intereses por préstamos monetarios con garantía de escrituras de terrenos. En 1536 Juan Calvino estableció la teoría protestante de la usura que refutaba la idea de que el interés era ilegal. En consecuencia, el cobro de intereses fue visto de nuevo como parte legal y esencial de la práctica de los negocios. Con el tiempo, se publicaron tablas de interés que estuvieron a disposición del público.
+
+En la actualidad, los tipos de interés en los países desarrollados están cerca de sus mínimos históricos, y los tipos de interés negativos son bastante comunes en Alemania y Japón.
+
+## Interés simple y compuesto
+
+Cuando el total de los intereses devengados o cobrados es linealmente proporcional al importe inicial del dinero (capital inicial o principal), al tipo de interés y al número de periodos de interés en los que el principal está comprometido, se dice que el interés y el tipo de interés son simples. El interés simple no se utiliza con frecuencia en la práctica comercial moderna.
+
+El interés simple se rige por la siguiente fórmula:
+$$\mathrm {\text{Capital final} = \text{Capital inicial}·(1+\text{Tiempo (periodos)}·\text{Interés por periodo})}$$
+
+Siempre que la carga de intereses para cualquier periodo de interés (un año, por ejemplo) se base en el importe restante del principal más los cargos por intereses acumulados hasta el comienzo de ese periodo, se dice que el interés es compuesto. En resumen, en el caso del interés compuesto, la capitalización equivale a generar dinero sobre las ganancias reinvertidas, además de los ahorros originales.
+
+El interés compuesto se rige por la siguiente fórmula:
+$$\mathrm {\text{Capital final} = \text{Capital inicial}·(1+\text{Interés por periodo})^\text{Tiempo (periodos)}}$$
+
+La diferencia entre el interés simple y el compuesto se puede ver en las tablas siguientes.
+
+Periodo | Capital al inicio del periodo | Intereses generados | Capital acumulado al final del periodo
+--- | --- | --- | ----- 
+1 | 1.000 | 100 | 1.100
+2 | 1.000 | 100 | 1.200
+3 | 1.000 | 100 | 1.300
+
+Periodo | Capital al inicio del periodo | Intereses generados | Capital acumulado al final del periodo
+--- | --- | --- | ----- 
+1 | 1.000 | 100 | 1.100
+2 | 1.100 | 110 | 1.210
+3 | 1.210 | 121 | 1.331
+
